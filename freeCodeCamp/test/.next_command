@@ -82,3 +82,4 @@ cd ..
 cd ..
 cd ../..
 ls --color=auto
+clear
