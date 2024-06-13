@@ -338,3 +338,8 @@ help copy
 help --copy
 copy --help
 cp --help
+clear
+cp --help
+pwd
+ls --color=auto
+cp -r website-boilerplate ./toms-website
