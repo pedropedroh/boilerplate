@@ -287,3 +287,4 @@ cd ..
 cd ..
 cd ..
 find -name header.png
+find -name footer.jpeg
