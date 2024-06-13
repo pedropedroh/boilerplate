@@ -315,3 +315,4 @@ help rm
 help -rm
 rm --help
 rm -r fonts
+ls --color=auto
