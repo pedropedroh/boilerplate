@@ -182,3 +182,14 @@ mkdir client
 mkdir client/src
 mv index.html client/src
 find
+mv index.js client/sr
+mv index.js client/src
+cd client/sr
+cd client
+ls --color=auto
+rm sr
+cd ..
+mv index.js client/src
+ls --color=auto
+touch index.js
+mv index.js client/src
