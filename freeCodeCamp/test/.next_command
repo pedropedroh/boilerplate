@@ -155,3 +155,25 @@ clear
 pwd
 ls --color=auto
 mv lato.ttf fonts
+ls --color=auto
+cd fonts
+ls --color=auto
+mv menlo.otf website
+cd ..
+ls --color=auto
+mv menlo.otf fonts
+ls --color=auto
+cd fonts
+ls --color=auto
+find menlo.otf
+ls --color=auto
+cd ..
+ls --color=auto
+cd..
+ls --color=auto
+cd ..
+ls --color=auto
+cd website
+tuch menlo.otf
+touch menlo.otf
+mv menlo.otf fonts
