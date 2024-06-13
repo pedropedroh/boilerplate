@@ -230,3 +230,19 @@ find --helpf
 find --help
 cd ..
 find --help
+clear
+find -name
+find -index.html
+find index.html
+ls --color=auto
+cd client
+ls --color=auto
+cd src
+ls --color=auto
+find index.html
+find -name index.html
+find -name index.html
+cd ..
+find -name index.html
+cd ..
+find -name index.html
