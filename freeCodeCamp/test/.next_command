@@ -149,3 +149,9 @@ mv roboto.woff fonts
 clear
 find website
 find
+mv lato.tff fonts
+mv ./lato.tff fonts
+clear
+pwd
+ls --color=auto
+mv lato.ttf fonts
