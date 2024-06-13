@@ -146,3 +146,6 @@ mkdir fonts
 ls --color=auto
 mv menlo.otf fonts
 mv roboto.woff fonts
+clear
+find website
+find
