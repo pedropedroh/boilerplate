@@ -196,3 +196,37 @@ mv index.js client/src
 mv styles.css client/src
 find
 find client
+help find
+find help
+help
+help find
+__vsc_prompt_cmd_original
+info find
+man -k find
+clear
+cd client
+find
+find -help
+find help
+find help
+help find
+help help
+clear
+help find
+man -k find
+clear
+help find
+info find
+find --help
+find -help
+find -h
+find --h
+find --help
+find -H
+clear
+ls --color=auto --help
+find --help
+find --helpf
+find --help
+cd ..
+find --help
