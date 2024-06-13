@@ -68,3 +68,4 @@ ls --color=auto
 ls --color=auto -l node_modules
 ls --color=auto -l node_modules
 cd has
+ls --color=auto
