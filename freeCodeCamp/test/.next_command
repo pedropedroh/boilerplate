@@ -314,3 +314,4 @@ find
 help rm
 help -rm
 rm --help
+rm -r fonts
