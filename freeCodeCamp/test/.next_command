@@ -269,3 +269,10 @@ ls --color=auto
 cd ..
 ls --color=auto
 find -name images
+ls --color=auto
+mv images/header.png clent/assets/images
+cd images
+ls --color=auto
+cd ..
+mv header.png clent/assets/images
+mv header.png client/assets/images
