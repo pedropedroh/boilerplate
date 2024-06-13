@@ -349,3 +349,4 @@ find
 clear
 ls --color=auto
 find website-boilerplate
+clear
