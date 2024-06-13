@@ -276,3 +276,14 @@ ls --color=auto
 cd ..
 mv header.png clent/assets/images
 mv header.png client/assets/images
+find
+cd .. client
+cd client
+cd assets
+cd images
+ls --color=auto
+find -name header.png
+cd ..
+cd ..
+cd ..
+find -name header.png
